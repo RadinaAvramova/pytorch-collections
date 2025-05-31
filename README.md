@@ -1,2 +1,1 @@
 # pytorch-collections
-pytorch-collections
